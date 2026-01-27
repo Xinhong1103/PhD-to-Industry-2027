@@ -1,17 +1,10 @@
-# 🛠 技能自评与职业化路线 (Skills Self-Assessment)
+## 🛠 当前技能自评 (Skill Self-Assessment)
+> 更新时间：2026-01-27 | 目标：2027年入职前实现全 8+ 评分
 
-> 最后更新：2026-01-27
-> 目标：从学术研究（PhD）向工业界工程化落地（Industry）转型。
-
----
-
-## 📊 核心能力雷达图
-```mermaid
-radar-chart
-    title PhD vs Industry Requirements
-    labels [Python工程, PyTorch, 部署经验, 数据工程, 算法理论]
-    datasets
-      - title: 当前能力 (Current)
-        value: [6, 7, 4, 5, 8]
-      - title: 2027 工业界目标 (Target)
-        value: [8, 9, 7, 8, 9]
+| 维度 | 评分 | 进度条 | 备注 |
+| :--- | :---: | :--- | :--- |
+| **Python 工程能力** | 6/10 | ![60%](https://geps.dev/progress/60?dangerColor=800080&accColor=007bff&successColor=28a745) | 熟悉常用设计模式，需加强异步编程 |
+| **PyTorch 熟练度** | 7/10 | ![70%](https://geps.dev/progress/70?dangerColor=800080&accColor=007bff&successColor=28a745) | 能够复现 CV 论文，熟悉 SpecCTSegNet 架构 |
+| **部署经验** | 4/10 | ![40%](https://geps.dev/progress/40?dangerColor=800080&accColor=007bff&successColor=28a745) | 了解 Docker，需学习 TensorRT/ONNX 优化 |
+| **数据工程** | 5/10 | ![50%](https://geps.dev/progress/50?dangerColor=800080&accColor=007bff&successColor=28a745) | 擅长 DICOM 数据预处理，需提升 SQL 能力 |
+| **算法理论** | 8/10 | ![80%](https://geps.dev/progress/80?dangerColor=800080&accColor=007bff&successColor=28a745) | 博士课题相关，深谙光谱 CT 与重建算法 |
